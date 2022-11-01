@@ -1,0 +1,16 @@
+/.idea/
+/target/
+/out/
+.DS_Store
+profile-1.txt
+profile-2.txt
+profile-sketch-1.bin
+random-profile-1.txt
+random-profile-2.txt
+random-unique-1.txt
+random-unique-2.txt
+unique-1.txt
+unique-2.txt
+unique-sketch-1.bin
+unique-sketch-2.bin
+profile-sketch-2.bin
